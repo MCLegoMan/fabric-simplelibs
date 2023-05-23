@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "simplefabric",
+	"version": "${version}",
+	"name": "SimpleFabric",
+	"description": "magistermaks's Simple Fabric Libs combined into a Fabric Mod.",
+	"authors": [
+		"MCLegoMan",
+		"magistermaks"
+	],
+	"contact": {
+		"homepage": "https://twitch.tv/mclegoman",
+		"sources": "https://github.com/MCLegoMan/SimpleFabric"
+	},
+	"license": "MIT",
+	"icon": "assets/simplefabric/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.mclegoman.simplefabric.SimpleFabricMain"
+		]
+	},
+	"mixins": [
+		"simplefabric.mixins.json"
+	]
+}
