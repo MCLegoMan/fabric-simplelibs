@@ -12,7 +12,7 @@ public class SimpleFabricData {
     static {
         ID = "simplefabric";
         NAME = "SimpleFabric";
-        VERSION = "1.0.0";
+        VERSION = "1.0.1";
         PREFIX = "[" + NAME + " " + VERSION + "] ";
         LOGGER = LoggerFactory.getLogger(ID);
     }
