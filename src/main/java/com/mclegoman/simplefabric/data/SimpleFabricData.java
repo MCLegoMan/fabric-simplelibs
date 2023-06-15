@@ -1,7 +1,7 @@
 package com.mclegoman.simplefabric.data;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class SimpleFabricData {
     public static final String ID;
@@ -12,8 +12,8 @@ public class SimpleFabricData {
     static {
         ID = "simplefabric";
         NAME = "SimpleFabric";
-        VERSION = "1.0.1";
+        VERSION = "1.0.2";
         PREFIX = "[" + NAME + " " + VERSION + "] ";
-        LOGGER = LoggerFactory.getLogger(ID);
+        LOGGER = LogManager.getLogger(ID);
     }
 }
