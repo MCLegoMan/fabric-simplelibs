@@ -19,8 +19,5 @@
 		"main": [
 			"com.mclegoman.simplefabric.SimpleFabricMain"
 		]
-	},
-	"mixins": [
-		"simplefabric.mixins.json"
-	]
+	}
 }
