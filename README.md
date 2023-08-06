@@ -12,6 +12,6 @@ repositories {
 
 ```
 dependencies {
-    include(modImplementation "com.github.MCLegoMan:SimpleFabric:v1.1.0_02")
+    include(modImplementation "com.github.MCLegoMan:SimpleFabric:v1.1.0_03")
 }
 ```
