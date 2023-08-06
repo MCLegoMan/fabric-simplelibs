@@ -1,4 +1,4 @@
-package com.mclegoman.simplefabric.fabric_simplelibs.simple_ray;
+package com.mclegoman.simplefabriclibs.simple_ray;
 
 /*
  * Copyright (c) 2021 magistermaks

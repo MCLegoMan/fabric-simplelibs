@@ -1,4 +1,4 @@
-package com.mclegoman.simplefabric.fabric_simplelibs.simple_config;
+package com.mclegoman.simplefabriclibs.simple_config;
 
 /*
  * Copyright (c) 2021 magistermaks
