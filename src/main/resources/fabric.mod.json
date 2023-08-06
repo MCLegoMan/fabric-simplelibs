@@ -15,8 +15,5 @@
 		"sources": "https://github.com/MCLegoMan/SimpleFabric"
 	},
 	"license": "MIT",
-	"environment": "*",
-	"depends": {
-		"fabric": "*"
-	}
+	"environment": "*"
 }
