@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "simplefabric",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"name": "Simple Fabric Libs",
 	"description": "Simple Fabric Libs compiled into a FabricMC mod.",
 	"authors": [
