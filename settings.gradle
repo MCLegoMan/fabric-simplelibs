@@ -14,4 +14,3 @@ pluginManagement {
 }
 
 rootProject.name = 'fabric-simplelibs'
-include('app')
